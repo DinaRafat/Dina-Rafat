@@ -66,3 +66,13 @@ footer
     width: 1200px; 
     height: 670px;
 }
+
+
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+     background-color: white; 
+    border: 1px white;
+    border-radius: .25rem;
+}
