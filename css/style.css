@@ -1,0 +1,68 @@
+.display-1
+{
+    font-weight:900;
+    color: #fefaf9;
+}
+
+.navbar
+{
+    background-color: black !important;
+}
+
+.navbar.navbar-brand
+{
+    color: blue;
+    
+}
+.navbar.navbar-nav
+{
+    color: blue;
+}
+.navbar.navbar-nav li a
+{
+    color: blue;
+    
+}
+
+.navbar-brand
+{
+    margin:0px 800px 0px 0px;
+}
+
+body
+{
+    background-color: #fefaf9;
+}
+
+.card
+{
+    display: inline-block;
+    margin: 10px;
+}
+
+.my div1
+{
+     display: inline-block;
+     margin: 50px;
+
+
+}
+
+.my div2
+{
+    display: inline-block;
+    margin: 50px;
+}
+
+
+footer
+{
+    background-color:black;
+    margin-top: 100px;
+}
+
+.customize-carousel-img
+{
+    width: 1200px; 
+    height: 670px;
+}
